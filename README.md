@@ -4,19 +4,17 @@
 
   Now featuring Universal Action triggers and hotkeys for the following five actions:
 
-  
+
+- Uppercase
+
+- Lowercase
+
+- Capitalize - capitalizes **all** words (e.g. Posting A New Topic In Share Your Workflows)
+
+- Title Case - capitalizes word except for "the", "in", "of" etc. according to American English title conventions (e.g. Posting a New Topic in Share Your Workflows),  If you manage academic citations with BibDesk, Zotero, Papers, Mendeley, etc., Title Case conversion is especially useful for cleaning up downloaded citations.
 
 
-Uppercase
-
-Lowercase
-
-Capitalize - capitalizes **all** words (e.g. Posting A New Topic In Share Your Workflows)
-
-Title Case - capitalizes word except for "the", "in", "of" etc. according to American English title conventions (e.g. Posting a New Topic in Share Your Workflows),  If you manage academic citations with BibDesk, Zotero, Papers, Mendeley, etc., Title Case conversion is especially useful for cleaning up downloaded citations.
-
-
-Sentence Case - capitalizes only the first letter of the first word & converts the rest to lower case
+- Sentence Case - capitalizes only the first letter of the first word & converts the rest to lower case
 
   
 
