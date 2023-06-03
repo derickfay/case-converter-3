@@ -41,22 +41,6 @@ You can also connect a hot key directly to the **cc** script filter directly t
 
 ![ccdemo.thumb.png.613a61bc39aced79368717b23792f127.png](//content.invisioncic.com/r229491/monthly_2018_02/ccdemo.thumb.png.613a61bc39aced79368717b23792f127.png)
 
-  
-
-
-**Download:**
-
-  
-
-
-[https://www.dropbox.com/s/8fydkkef1t699et/Case Converter 3.alfredworkflow?dl=0](https://www.dropbox.com/s/8fydkkef1t699et/Case%20Converter%203.alfredworkflow?dl=0)
-
-  
-
-
-NB This is a new link and will download as a new workflow - you'll need to migrate any hotkeys and delete or disable the older version.
-
-  
 
 
 **Here's the old Python 2 version in case anyone wants it:**
@@ -69,14 +53,7 @@ NB This is a new link and will download as a new workflow - you'll need to migra
   
 
 
-**The original version is described below and still available, if anyone prefers it.**
-
-  
-
-
 **Workflow Version:**
-
-  
 
 
 This workflow converts the case of the text on the clipboard.
