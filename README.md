@@ -48,6 +48,8 @@ Updated May 20, 2014 with hotkeys
 
 **Updated March 26, 2022 to use Python 3 for MacOS 12.3 **
 
-No longer uses the Title Case perl script found at <https://raw.github.com/ap/titlecase/master/titlecase> .
+No longer uses the Title Case perl script found at <https://raw.github.com/ap/titlecase/master/titlecase> , replaced with 
+python version from https://muffinresearch.co.uk/titlecasepy-titlecase-in-python/
+ 
 
   
