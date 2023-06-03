@@ -36,7 +36,7 @@ You can also connect a hot key directly to the **cc** script filter directly t
   
 
 
-![ccdemo.thumb.png.613a61bc39aced79368717b23792f127.png](//content.invisioncic.com/r229491/monthly_2018_02/ccdemo.thumb.png.613a61bc39aced79368717b23792f127.png)
+![ccdemo.png](ccdemo.png)
 
 
 
